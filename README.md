@@ -16,7 +16,7 @@ The library can be found here
 ```sbt
 "org.mdedetrich" %% "mdc-async" % "0.1"
 ```
-Currently its published for both Scala 2.10.6 and 2.11.8
+Currently its published for both Scala 2.11.8
 
 ## Usage
 
